@@ -1,0 +1,1 @@
+select First_Name as Name,Last_Name as Surname from employee_details where salary between 30000 and 50000;
